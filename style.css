@@ -1,0 +1,37 @@
+
+.premiere {
+    font-size: 20px;
+}
+
+.after {
+    font-size: 25px;
+}
+
+.illu {
+    font-size: 30px;
+}
+
+.photo {
+    font-size: 35px;
+}
+
+.light {
+    font-size: 40px;
+}
+
+h1 {
+    font-family:'Courier New', Courier, monospace;
+}
+
+p {
+    font-family:system-ui;
+}
+
+ul {
+    font-family: system-ui;
+}
+
+body {
+    background-color: aqua;
+}
+
